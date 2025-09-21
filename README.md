@@ -44,7 +44,7 @@ In this lab, we recorded ECG signals from a human subject using an ADInstruments
 <br>
 
 <p align="center">
- <img src="./Project1/Images/image8.png" alt="image8" width="800" height="800"/>
+ <img src="./Project3/images/Screenshot 2025-09-21 131935.png" alt="image8" width="800" height="800"/>
 </p>
 
 <br>
