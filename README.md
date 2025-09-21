@@ -38,7 +38,22 @@ As part of my biomedical systems coursework, I completed a series of labs design
 - Performing spirometry to characterize respiratory cycles, lung volumes, forced expiration, and the effects of bronchial obstruction.
 ---
 
+### Electrocardiogram Recording and Heart Rate Detection
+In this lab, we recorded ECG signals from a human subject using an ADInstruments PowerLab system and processed the data in MATLAB to detect heartbeats. We implemented a peak detection algorithm to calculate heart rate over time and compared the results against measurements obtained directly from LabChart. Our analysis showed consistent agreement between the algorithm and LabChart, with the subject’s heart rate generally in the 60–80 bpm range.
+
+<br>
+
+<p align="center">
+ <img src="./Project1/Images/image8.png" alt="image8" width="800" height="800"/>
+</p>
+
+<br>
+
 ---
+### Electroencephalography Recording and Alpha Rhythm Extraction
+In this lab, we recorded EEG signals to study two key aspects: recognizing artifacts and detecting alpha waves. First, we identified common artifacts in EEG recordings, including eye blinks, eye movements, and head motion, which often introduced large-amplitude noise beyond the normal ±50 µV range.
+Next, we examined alpha rhythms (8–13 Hz), which are typically present when subjects are relaxed with eyes closed and diminish upon eye opening. While we observed spectral peaks in the alpha band during eyes-closed conditions, the expected reduction with eyes open was less pronounced in our data. This discrepancy likely stemmed from electrode placement issues and poor signal quality, but the experiment still demonstrated the characteristic frequency range of alpha activity and highlighted the importance of minimizing artifacts in EEG acquisition.
+
 
 ---
 
