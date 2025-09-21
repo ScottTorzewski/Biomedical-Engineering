@@ -21,7 +21,7 @@ Cancer cells reprogram their metabolism to prioritize growth. This is often done
 <br>
 
 <p align="center">
- <img src="./Project1/Images/image1.png" alt="image1" width="800" height="800"/>
+ <img src="./Project1/Images/image1.png" alt="image1" width="700" height="700"/>
 </p>
 
 <br>
@@ -36,3 +36,6 @@ Cancer cells reprogram their metabolism to prioritize growth. This is often done
 
 
 ## 2️⃣ Comparative Analysis of Enzymatic and Non-Enzymatic Biosensors for Glucose Detection
+Abstract—Glucose monitoring is essential in managing diabetes and other metabolic disorders. This drives advancements in sensor technologies for integration into electronic and wearable devices. This paper presents a comparative analysis of enzymatic and non-enzymatic electrochemical biosensors for glucose detection. Enzymatic sensors, which rely on glucose oxidase or dehydrogenase, offer high specificity and have been successfully implemented in commercial self-monitoring and continuous glucose monitoring systems. However, limitations such as enzyme degradation, oxygen dependency, and calibration requirements have led to growing interest in non-enzymatic alternatives. These fourth-generation sensors utilize metal-based catalysts (e.g., Ni, Pt, Au) to directly oxidize glucose. This offers advantages in stability, miniaturization, and reagent-free operation. The paper explores the underlying mechanisms, materials, performance metrics, and integration challenges of both approaches supported by recent literature. System-level considerations such as linearity, selectivity, detection limits, and clinical accuracy frameworks are examined to assess suitability for next-generation wearable biosensing platforms.
+
+## 3️⃣ Comparative Analysis of Enzymatic and Non-Enzymatic Biosensors for Glucose Detection
