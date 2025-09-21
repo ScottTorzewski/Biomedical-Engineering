@@ -57,15 +57,15 @@ Next, we examined alpha rhythms (8–13 Hz), which are typically present when su
 <br>
 
 <p align="center">
-  <img src="./Project3/images/img1.png" alt="img1" width="400"/>
-  <img src="./Project3/images/img2.png" alt="img2" width="400"/>
+  <img src="./Project3/images/img1.png" alt="img1" width="450"/>
+  <img src="./Project3/images/img2.png" alt="img2" width="450"/>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="./Project3/images/img3.png" alt="img3" width="400"/>
-  <img src="./Project3/images/img4.png" alt="img4" width="400"/>
+  <img src="./Project3/images/img3.png" alt="img3" width="450"/>
+  <img src="./Project3/images/img4.png" alt="img4" width="450"/>
 </p>
 
 <br>
