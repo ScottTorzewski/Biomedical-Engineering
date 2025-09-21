@@ -21,14 +21,6 @@ Cancer cells reprogram their metabolism to prioritize growth. This is often done
 <br>
 
 <p align="center">
- <img src="./Project1/Images/image1.png" alt="image1" width="700" height="700"/>
-</p>
-
-<br>
-
-<br>
-
-<p align="center">
  <img src="./Project1/Images/image6.png" alt="image6" width="800" height="800"/>
 </p>
 
