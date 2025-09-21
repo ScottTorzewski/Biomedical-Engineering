@@ -54,6 +54,23 @@ In this lab, we recorded ECG signals from a human subject using an ADInstruments
 In this lab, we recorded EEG signals to study two key aspects: recognizing artifacts and detecting alpha waves. First, we identified common artifacts in EEG recordings, including eye blinks, eye movements, and head motion, which often introduced large-amplitude noise beyond the normal ±50 µV range.
 Next, we examined alpha rhythms (8–13 Hz), which are typically present when subjects are relaxed with eyes closed and diminish upon eye opening. While we observed spectral peaks in the alpha band during eyes-closed conditions, the expected reduction with eyes open was less pronounced in our data. This discrepancy likely stemmed from electrode placement issues and poor signal quality, but the experiment still demonstrated the characteristic frequency range of alpha activity and highlighted the importance of minimizing artifacts in EEG acquisition.
 
+<br>
+
+<p align="center">
+ <img src="./Project3/images/img1.png" alt="img1" width="600" height="600"/>
+ <img src="./Project3/images/img2.png" alt="img2" width="600" height="600"/>
+</p>
+
+<br>
+
+<br>
+
+<p align="center">
+ <img src="./Project3/images/img3.png" alt="img3" width="600" height="600"/>
+ <img src="./Project3/images/img4.png" alt="img4" width="600" height="600"/>
+</p>
+
+<br>
 
 ---
 
