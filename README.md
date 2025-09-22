@@ -104,6 +104,36 @@ In this lab, we used spirometry to study respiratory function under different co
 
 When performing forced breathing maneuvers, peak inspiratory flow (PIF), peak expiratory flow (PEF), and forced vital capacity (FVC) were quantified. The data highlighted the efficiency of the respiratory system during maximal effort, though our measured values for forced expiratory volume in one second (FEV1) were lower than expected. This likely reflected experimental error or suboptimal effort during exhalation.
 
-Finally, we simulated bronchial obstruction by restricting the airway and repeating the forced breathing test. This resulted in significant decreases in FVC, PEF, and PIF, and illustrated how narrowed airways impair airflow. These findings mirror the physiological limitations observed in conditions such as asthma, where airflow obstruction reduces pulmonary function.
+Finally, we simulated bronchial obstruction by restricting the airway and repeating the forced breathing test. This resulted in significant decreases in FVC, PEF, and PIF, and illustrated how narrowed airways impair airflow. These findings mirror the physiological limitations observed in conditions such as asthma, where airflow obstruction reduces pulmonary function. Overall, this lab demonstrated how spirometry provides quantitative insight into lung volumes, flow rates, and the effects of both normal and pathological respiratory states.
 
-Overall, this lab demonstrated how spirometry provides quantitative insight into lung volumes, flow rates, and the effects of both normal and pathological respiratory states.
+<br>
+
+<p align="center">
+ <img src="./Project3/images/l4img1.png" alt="l4img1" width="600"/>
+</p>
+
+<br>
+
+<br>
+
+<p align="center">
+ <img src="./Project3/images/l4img2.png" alt="l4img2" width="600"/>
+</p>
+
+<br>
+
+<br>
+
+<p align="center">
+ <img src="./Project3/images/l4img3.png" alt="l4img3" width="600"/>
+</p>
+
+<br>
+
+<br>
+
+<p align="center">
+ <img src="./Project3/images/l4img4.png" alt="l4img4" width="600"/>
+</p>
+
+<br>
