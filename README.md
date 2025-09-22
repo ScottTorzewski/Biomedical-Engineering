@@ -111,21 +111,21 @@ Finally, we simulated bronchial obstruction by restricting the airway and repeat
 <br>
 
 <p align="center">
- <img src="./Project3/images/l4img2.png" alt="l4img2" width="600"/>
+ <img src="./Project3/images/l4img2.png" alt="l4img2" width="600"/><br>
  <b>Normal Breathing</b>
 </p>
 
 <br>
 
 <p align="center">
- <img src="./Project3/images/l4img3.png" alt="l4img3" width="600"/>
+ <img src="./Project3/images/l4img3.png" alt="l4img3" width="600"/><br>
  <b>Forced Breathing</b>
 </p>
 
 <br>
 
 <p align="center">
- <img src="./Project3/images/l4img4.png" alt="l4img4" width="600"/>
+ <img src="./Project3/images/l4img4.png" alt="l4img4" width="600"/><br>
  <b>Obstructed Breathing</b>
 </p>
 
