@@ -120,7 +120,11 @@ Finally, we simulated bronchial obstruction by restricting the airway and repeat
  <img src="./Project3/images/l4img2.png" alt="l4img2" width="600"/>
 </p>
 
+<p align="center">
+
 ### Normal Breathing
+
+</p>
 
 <br>
 
@@ -128,7 +132,11 @@ Finally, we simulated bronchial obstruction by restricting the airway and repeat
  <img src="./Project3/images/l4img3.png" alt="l4img3" width="600"/>
 </p>
 
+<p align="center">
+
 ### Forced Breathing
+
+</p>
 
 <br>
 
@@ -136,6 +144,10 @@ Finally, we simulated bronchial obstruction by restricting the airway and repeat
  <img src="./Project3/images/l4img4.png" alt="l4img4" width="600"/>
 </p>
 
-### Obstructued Breathing
+<p align="center">
+
+### Obstructed Breathing
+
+</p>
 
 <br>
