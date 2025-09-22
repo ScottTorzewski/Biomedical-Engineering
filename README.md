@@ -82,13 +82,9 @@ In this lab, we recorded ECG signals and finger blood volume pulses to examine t
 
 <br>
 
-<br>
-
 <p align="center">
  <img src="./Project3/images/l3img2.png" alt="l3img2" width="600"/>
 </p>
-
-<br>
 
 <br>
 
@@ -114,40 +110,23 @@ Finally, we simulated bronchial obstruction by restricting the airway and repeat
 
 <br>
 
-<br>
-
 <p align="center">
  <img src="./Project3/images/l4img2.png" alt="l4img2" width="600"/>
-</p>
-
-<p align="center">
-
-### Normal Breathing
-
+ <b>Normal Breathing</b>
 </p>
 
 <br>
 
 <p align="center">
  <img src="./Project3/images/l4img3.png" alt="l4img3" width="600"/>
-</p>
-
-<p align="center">
-
-### Forced Breathing
-
+ <b>Forced Breathing</b>
 </p>
 
 <br>
 
 <p align="center">
  <img src="./Project3/images/l4img4.png" alt="l4img4" width="600"/>
-</p>
-
-<p align="center">
-
-### Obstructed Breathing
-
+ <b>Obstructed Breathing</b>
 </p>
 
 <br>
