@@ -1,0 +1,41 @@
+% Emin = 0.028;
+ Emin = 0.15;
+ % Emax = 2.1;
+ Emax = 0.65;
+a1 = 0.303;
+a2 = 0.508;
+n1 = 1.32;
+n2 = 21.9;
+ % HR = 72;
+ HR = 120;
+T = 60/(HR);
+fmax = 0.6;
+Rmv = 0.0025;
+Rav = 0.001;
+Rc = 0.0398;
+Ls = 5*10^-4;
+Cs = 1.33;
+% Rs = 1;
+ Rs = 1.3;
+Cla = 4.4;
+Cra = 60;
+Vlvu = 5;
+Vsau = 80.76;
+Vlau = 15;
+Vrau = 2378;
+Vtotal = 2800;
+
+SW = out.SW;
+
+
+alpha = 8.65*10^-5;
+Rp = 0.52;
+Lp = 0.063;
+speed = 7500;
+w = (speed*2*pi)/60;
+
+ m_Q = (mean(out.Q)*60)/1000;
+ m_Qco = (mean(out.Qco)*60)/1000;
+ m_Psa = mean(out.Psa);
+ m_Pra = mean(out.Pra);
+ m_Pla = mean(out.Pla);
