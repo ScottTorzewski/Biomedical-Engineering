@@ -149,7 +149,7 @@ I also performed regression analysis on end-systolic pressure–volume points ac
 <br>
 
 <p align="center">
- <img src="./Project4/project4-1.png" alt="l3img3" width="600"/>
+ <img src="./Project4/project4-1.png" alt="l3img3" width="700"/>
 </p>
 
 <br>
