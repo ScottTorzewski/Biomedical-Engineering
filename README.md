@@ -137,7 +137,7 @@ In this lab, I developed and simulated a lumped-parameter model of the cardiovas
 <br>
 
 <p align="center">
- <img src="./Project4/project4-0.5.png" alt="l3img3" width="600"/>
+ <img src="./Project4/project4-0.5.png" alt="l4img0.5" width="600"/>
 </p>
 
 <br>
@@ -149,7 +149,25 @@ I also performed regression analysis on end-systolic pressure–volume points ac
 <br>
 
 <p align="center">
- <img src="./Project4/project4-1.png" alt="l3img3" width="700"/>
+ <img src="./Project4/project4-1.png" alt="l4img1" width="700"/>
+</p>
+
+<br>
+
+After running my initial simulation, I implemented a theoretical rotary ventricular assist device (VAD) to divert blood flow away from the failing ventricle. To integrate the pump flow Q into the cardiovascular model, I modified the nodal equations at the pump inlet (Plv) and outlet (Psa). For the left ventricle, Plv depends on the ventricular volume Vlv. I subtracted the pump flow Q from the original relation (Qmv - Qao) before integration, effectively bypassing the ventricle and reducing its workload. For the systemic arteries, Psa depends on arterial volume Vs. I added the pump flow Q to the original relation (Qao - Qs) before integration, ensuring that systemic circulation was maintained despite reduced ventricular output. This modification captured the physiological role of the VAD—offloading the left ventricle while sustaining systemic blood flow.
+
+<br>
+
+<p align="center">
+ <img src="./Project4/project4-2.png" alt="l4img2" width="600"/>
+</p>
+
+<br>
+
+<br>
+
+<p align="center">
+ <img src="./Project4/project4-3.png" alt="l4img3" width="600"/>
 </p>
 
 <br>
