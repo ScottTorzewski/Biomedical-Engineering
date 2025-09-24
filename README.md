@@ -1,7 +1,7 @@
 # 🧬 Biomedical Engineering
 
 ## *️⃣ Motivation
-During my coursework at Lafayette, I chose biomedical systems as one of my ECE electives and was immediately drawn to the field. The combination of electrical and computer engineering principles with mathematical modeling, particularly through differential equations, and their application to healthcare and medicine was fascinating. While any engineering discipline contributes indirectly to society, I am motivated by the opportunity to make a more direct impact on people’s health and quality of life. The highlights below showcase several experiments and projects I have completed. Full documentation is available in the folders above.
+During my coursework at Lafayette, I chose biomedical systems as one of my ECE electives and was immediately drawn to the field. I am particularly fascinated by the intersection of electrical and computer engineering with systems physiology, bioinstrumentation, and computational modeling, where mathematical analysis and differential equations are used to understand and simulate complex biological processes. This foundation has enabled me to design and analyze physiological measurement systems, develop cardiovascular and respiratory simulations, and implement signal acquisition and processing techniques. I am motivated by the opportunity to directly improve health outcomes and patient care through advanced monitoring devices and emerging fields like biophotonics, which integrates optics and electronics to probe and image biological tissue. The projects and experiments highlighted below demonstrate my ability to apply rigorous engineering principles to real-world biomedical challenges.
 
 ---
 
