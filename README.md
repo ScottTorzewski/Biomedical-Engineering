@@ -130,3 +130,26 @@ Finally, we simulated bronchial obstruction by restricting the airway and repeat
 </p>
 
 <br>
+
+## 4️⃣ Cardiovascular System Modeling for Biomedical Applications
+In this lab, I developed and simulated a lumped-parameter model of the cardiovascular system using MATLAB/Simulink. I represented the left ventricle as a time-varying elastance function to capture the cyclic pressure–volume relationship during systole and diastole. The systemic circulation was modeled with a four-element Windkessel circuit consisting of resistive, capacitive, and inductive elements to approximate arterial compliance, vascular resistance, and inertance of blood flow. I also incorporated ideal diodes and resistors to represent the mitral and aortic valves, ensuring unidirectional flow and pressure-dependent valve opening. Together, these components provided a simplified but physiologically grounded model of systemic hemodynamics.
+
+<br>
+
+<p align="center">
+ <img src="./Project4/project4-0.5.png" alt="l3img3" width="600"/>
+</p>
+
+<br>
+
+Running the simulation at a normal heart rate of 72 bpm generated ventricular, atrial, and aortic pressure traces as well as left ventricular volume over time. From these results, I calculated key hemodynamic variables including cardiac output, stroke work, systolic and diastolic pressures, and mean atrial pressures. My measured values were within expected physiological ranges, confirming the validity of the model. To extend the analysis, I systematically varied contractility (Emax), preload, and afterload. Increasing systemic resistance raised systolic pressure and reduced cardiac output, consistent with the hemodynamic effects of hypertension. Reducing venous return decreased end-diastolic volume and stroke volume, reflecting the sensitivity of the Frank-Starling mechanism to preload. By contrast, increasing contractility produced higher pressures and greater stroke work for the same preload and afterload conditions, illustrating how ventricular elastance is a central determinant of pump performance.
+
+I also performed regression analysis on end-systolic pressure–volume points across different conditions to estimate ventricular elastance and the unstressed volume. These fitted values closely matched the original model parameters, confirming the utility of pressure–volume analysis as a method for quantifying contractile function. This exercise not only demonstrated how computational models can replicate key features of human circulation but also underscored their value in interpreting measurements from biomedical devices such as echocardiography, catheterization, or pressure-volume loop analysis systems. The ability to simulate perturbations—such as increased afterload or reduced preload—highlighted how mathematical modeling complements experimental tools in understanding cardiovascular pathology, including hypertension, heart failure, and valvular disease.
+
+<br>
+
+<p align="center">
+ <img src="./Project4/project4-1.png" alt="l3img3" width="600"/>
+</p>
+
+<br>
