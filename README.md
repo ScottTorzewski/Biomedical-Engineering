@@ -33,7 +33,7 @@ Abstract—Glucose monitoring is essential for managing diabetes and other metab
 <br>
 
 <p align="center">
- <img src="./Project 2/project2-1.png" alt="project2-1" width="600"/>
+ <img src="./Project 2/project2-1.png" alt="project2-1" width="800"/>
 </p>
 
 <br>
