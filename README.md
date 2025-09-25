@@ -219,3 +219,8 @@ This project has clear biomedical applications, as it illustrates how ventilatio
 </p>
 
 <br>
+
+<p align="center">
+  <img src="./Project5/mainmodel2.png" alt="mainmodel2" width="500"/>
+  <img src="./Project5/mainmodel1.png" alt="mainmodel1" width="500"/>
+</p>
