@@ -71,15 +71,6 @@ Next, we examined alpha rhythms (8–13 Hz), which are typically present when su
   <img src="./Project3/images/img2.png" alt="img2" width="500"/>
 </p>
 
-<br>
-
-<p align="center">
-  <img src="./Project3/images/img3.png" alt="img3" width="500"/>
-  <img src="./Project3/images/img4.png" alt="img4" width="500"/>
-</p>
-
-<br>
-
 ---
 ### Cardiovascular Effects of Exercise
 In this lab, we recorded ECG signals and finger blood volume pulses to examine the physiological effects of exercise. We first measured baseline heart rate and pulse amplitude at rest, then had the volunteer perform short bouts of physical activity, and recorded the immediate post-exercise responses. A hand-exercise protocol was also included to observe localized changes in blood flow. Analysis showed that heart rate increased and R-R intervals decreased immediately after exercise, while pulse amplitude at the fingers temporarily dropped due to blood redistribution to active muscles. During recovery, both heart rate and pulse amplitude gradually returned to baseline values. This demonstrated the dynamic control of cardiovascular responses by the nervous system.
