@@ -184,43 +184,16 @@ After running my initial simulation, I implemented a theoretical rotary ventricu
 ## 5️⃣ Modeling Oxygen Transport in the Respiratory System
 I implemented an oxygen (O2) transport model in Simulink using a respiration system framework with physiological parameters: atmospheric pressure (PATM = 760 mmHg), alveolar O2 fraction (γATX = 0.21), airflow rate (FB = 80 ml/sec), maximum O2 fraction in blood (MAX = 0.224), and venous O2 partial pressure (PVX = 40 mmHg). Hemoglobin saturation was incorporated using a lookup table relating O2 partial pressure to percent saturation to accurately capture the nonlinear O2 dissociation curve.
 
-<br>
-
-<p align="center">
- <img src="./Project5/mouth_larynx oxygen.png" alt="l5img1" width="600"/>
-</p>
-
-<br>
-
-I simulated alveolar O2 concentration at respiratory rates of 10 and 15 breaths per minute. Higher rates increased alveolar O2 levels. This demonstrated how ventilation frequency directly affects oxygen replenishment. I also varied spontaneous breathing effort by adjusting pleural pressure (PB) amplitudes at 1200 and 1500 dynes/cm² at 15 breaths per minute. Greater inspiratory effort increased tidal volumes and alveolar O2 concentration, which highlighted how respiratory mechanics influence oxygen transport.
-
-<br>
-
-<p align="center">
- <img src="./Project5/bronchi oxygen.png" alt="l5img2" width="600"/>
-</p>
-
-<br>
-
-This project has clear biomedical applications, as it illustrates how ventilation parameters—rate and inspiratory effort—impact oxygen delivery. Such insights are critical for designing and optimizing respiratory support devices like ventilators, and for understanding patient responses in conditions such as hypoventilation or restrictive lung disease. The model bridges theoretical respiratory dynamics with practical clinical considerations in oxygen transport.
-
-<br>
-
-<p align="center">
- <img src="./Project5/mainmodel1.png" alt="l5img3" width="600"/>
-</p>
-
-<br>
-
-<br>
-
-<p align="center">
- <img src="./Project5/mainmodel2.png" alt="l5img4" width="600"/>
-</p>
-
-<br>
-
 <p align="center">
   <img src="./Project5/mainmodel2.png" alt="mainmodel2" width="500"/>
   <img src="./Project5/mainmodel1.png" alt="mainmodel1" width="500"/>
 </p>
+
+I simulated alveolar O2 concentration at respiratory rates of 10 and 15 breaths per minute. Higher rates increased alveolar O2 levels. This demonstrated how ventilation frequency directly affects oxygen replenishment. I also varied spontaneous breathing effort by adjusting pleural pressure (PB) amplitudes at 1200 and 1500 dynes/cm² at 15 breaths per minute. Greater inspiratory effort increased tidal volumes and alveolar O2 concentration, which highlighted how respiratory mechanics influence oxygen transport. This project has clear biomedical applications, as it illustrates how ventilation parameters—rate and inspiratory effort—impact oxygen delivery. Such insights are critical for designing and optimizing respiratory support devices like ventilators, and for understanding patient responses in conditions such as hypoventilation or restrictive lung disease. The model bridges theoretical respiratory dynamics with practical clinical considerations in oxygen transport.
+
+<p align="center">
+  <img src="./Project5/mouth_larynx oxygen.png" alt="mouth" width="500"/>
+  <img src="./Project5/mbronchi oxygen.png" alt="bronchi" width="500"/>
+</p>
+
+---
