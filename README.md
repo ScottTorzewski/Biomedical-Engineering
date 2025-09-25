@@ -193,7 +193,7 @@ I simulated alveolar O2 concentration at respiratory rates of 10 and 15 breaths 
 
 <p align="center">
   <img src="./Project5/mouth_larynx oxygen.png" alt="mouth" width="500"/>
-  <img src="./Project5/mbronchi oxygen.png" alt="bronchi" width="500"/>
+  <img src="./Project5/bronchi oxygen.png" alt="bronchi" width="500"/>
 </p>
 
 ---
