@@ -30,6 +30,14 @@ The study explores how variations in cluster size and enzyme activity influence 
 ## 2️⃣ Electrochemical Biosensors for Glucose Monitoring: Enzymatic and Non-Enzymatic Pathways Toward Next-Generation Biomedical Systems
 Abstract—Glucose monitoring is essential for managing diabetes and other metabolic disorders, driving advances in sensor technologies for integration into electronic and wearable devices. This paper presents a comparative analysis of enzymatic and non-enzymatic electrochemical biosensors. Enzymatic sensors rely on glucose oxidase or dehydrogenase and offer high specificity. They have been implemented in commercial self-monitoring and continuous glucose monitoring systems. However, limitations such as enzyme degradation and oxygen dependence have prompted interest in non-enzymatic alternatives. These fourth-generation sensors use metal-based catalysts, such as nickel and gold, to directly oxidize glucose. This in turn provides improved stability, miniaturization, and reagent-free operation. The paper examines mechanisms, materials, performance metrics, and integration considerations to highlight how design choices affect suitability for wearable biosensing platforms. The results indicate that no single architecture is universally optimal; sensor design must be tailored to application requirements. Future work should integrate electrochemical sensing with embedded electronics and computational modeling to enable reliable, real-time monitoring. The analysis also demonstrates broader relevance across biomedical engineering, connecting principles of signal acquisition and noise reduction to neuroengineering, biophotonics, and medical imaging.
 
+<br>
+
+<p align="center">
+ <img src="./Project2/project2-1" alt="project2-1" width="600"/>
+</p>
+
+<br>
+
 ## 3️⃣ Biomedical Systems Laboratory Work
 As part of my biomedical systems coursework, I completed a series of labs designed to measure and analyze physiological signals across multiple organ systems. Together, these projects developed my ability to integrate electrical/computer engineering tools with mathematical modeling and data analysis in the context of human health. These included: 
 - Recording and processing electrocardiogram (ECG) data to detect heart rate
