@@ -6,9 +6,9 @@ During my coursework at Lafayette, I chose biomedical systems as one of my ECE e
 ---
 
 ## 1️⃣ Mathematical Model of Enzyme Clustering in Glucose Metabolism and Its Implications for Cancer Therapy
-Interpreting scientific papers is a challenging but essential skill in biomedical engineering. To strengthen this ability, I analyzed “A Mathematical Model for Enzyme Clustering in Glucose Metabolism” by Miji Jeon. This work applies mathematical modeling to investigate how cancer cells reprogram their metabolism to prioritize growth by altering enzyme functions and forming clusters known as glucosomes. These clusters redirect glucose into three major pathways: glycolysis, the pentose phosphate pathway, and serine biosynthesis.
+In this project, I strengthen my ability to interpret scientific papers in the field of biomedical engineering by analyzing “A Mathematical Model for Enzyme Clustering in Glucose Metabolism” by Miji Jeon. This work applies mathematical modeling to investigate how cancer cells reprogram their metabolism to prioritize growth by altering enzyme functions and forming clusters known as glucosomes. These clusters redirect glucose into three major pathways: glycolysis, the pentose phosphate pathway, and serine biosynthesis.
 
-The study explores how variations in cluster size and enzyme activity influence glucose flux across these pathways. Increases in activity indicate a metabolic reliance that cancer cells exploit for proliferation, while decreases reflect disruptions in normal cellular function that could serve as therapeutic vulnerabilities. By mathematically simulating these dynamics, the paper provides insight into the mechanisms of metabolic reprogramming in cancer and highlights potential targets for intervention.
+The study is replicated using MATLAB/Simulink to explore how variations in cluster size and enzyme activity influence glucose flux across these pathways. Increases in activity indicate a metabolic reliance that cancer cells exploit for proliferation, while decreases reflect disruptions in normal cellular function that could serve as therapeutic vulnerabilities. By mathematically simulating these dynamics, the paper provides insight into the mechanisms of metabolic reprogramming in cancer and highlights potential targets for intervention.
 
 <br>
 
