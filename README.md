@@ -32,7 +32,7 @@ Abstract—Glucose monitoring is essential for managing diabetes and other metab
 
 The paper examines mechanisms, materials, performance metrics, and integration considerations to highlight how design choices affect suitability for wearable biosensing platforms. The results indicate that no single architecture is universally optimal; sensor design must be tailored to application requirements. Future work should integrate electrochemical sensing with embedded electronics and computational modeling to enable reliable, real-time monitoring. The analysis also demonstrates broader relevance across biomedical engineering, connecting principles of signal acquisition and noise reduction to neuroengineering, biophotonics, and medical imaging.
 
-<a href="[https://github.com/users/ScottTorzewski/Biomedical-Engineering](https://github.com/ScottTorzewski/Biomedical-Engineering/blob/main/Project2/Electrochemical%20Biosensors%20for%20Glucose%20Monitoring_Enzymatic%20and%20Non-Enzymatic%20Pathways%20Toward%20Next-Generation%20Biomedical%20Systems.pdf">FULL PAPER HERE</a>
+<a href="https://github.com/ScottTorzewski/Biomedical-Engineering/blob/main/Project2/Electrochemical%20Biosensors%20for%20Glucose%20Monitoring_Enzymatic%20and%20Non-Enzymatic%20Pathways%20Toward%20Next-Generation%20Biomedical%20Systems.pdf">FULL PAPER HERE</a>
 
 <br>
 
