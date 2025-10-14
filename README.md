@@ -39,7 +39,7 @@ The paper examines mechanisms, materials, performance metrics, and integration c
 <br>
 
 <p align="center">
- <img src="./Project2/project2.png" alt="project2-1" width="600"/>
+ <img src="./Project2/project2.png" alt="project2-1" width="450"/>
 </p>
 
 <br>
