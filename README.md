@@ -36,13 +36,9 @@ The paper examines mechanisms, materials, performance metrics, and integration c
 
 <a href="https://github.com/ScottTorzewski/Biomedical-Engineering/blob/main/Project2/Electrochemical%20Biosensors%20for%20Glucose%20Monitoring_Enzymatic%20and%20Non-Enzymatic%20Pathways%20Toward%20Next-Generation%20Biomedical%20Systems.pdf">FULL PAPER HERE</a>
 
-<br>
-
 <p align="center">
  <img src="./Project2/project2.png" alt="project2-1" width="450"/>
 </p>
-
-<br>
 
 ## 3️⃣ Biomedical Systems Laboratory Work
 As part of my biomedical systems coursework, I completed a series of labs designed to measure and analyze physiological signals across multiple organ systems. Together, these projects developed my ability to integrate electrical/computer engineering tools with mathematical modeling and data analysis in the context of human health. These included: 
