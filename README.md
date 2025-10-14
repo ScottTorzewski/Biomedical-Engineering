@@ -10,7 +10,7 @@ In this project, I strengthen my ability to interpret scientific papers in the f
 
 The study is replicated using MATLAB/Simulink to explore how variations in cluster size and enzyme activity influence glucose flux across these pathways. Increases in activity indicate a metabolic reliance that cancer cells exploit for proliferation, while decreases reflect disruptions in normal cellular function that could serve as therapeutic vulnerabilities. By mathematically simulating these dynamics, the paper provides insight into the mechanisms of metabolic reprogramming in cancer and highlights potential targets for intervention.
 
-<a href="https://github.com/ScottTorzewski/Biomedical-Engineering/blob/main/Project1/Mathematical%20Model%20of%20Enzyme%20Clustering%20in%20Glucose%20Metabolism%20for%20Cancer%20Treatment.pdf">FULL PROJECT HERE</a>
+<a href="https://github.com/ScottTorzewski/Biomedical-Engineering/blob/main/Project1/Mathematical%20Model%20of%20Enzyme%20Clustering%20in%20Glucose%20Metabolism%20for%20Cancer%20Treatment.pdf">CLICK HERE to view the full project.</a>
 
 <br>
 
@@ -34,7 +34,7 @@ Abstract—Glucose monitoring is essential for managing diabetes and other metab
 
 The paper examines mechanisms, materials, performance metrics, and integration considerations to highlight how design choices affect suitability for wearable biosensing platforms. The results indicate that no single architecture is universally optimal; sensor design must be tailored to application requirements. Future work should integrate electrochemical sensing with embedded electronics and computational modeling to enable reliable, real-time monitoring. The analysis also demonstrates broader relevance across biomedical engineering, connecting principles of signal acquisition and noise reduction to neuroengineering, biophotonics, and medical imaging.
 
-<a href="https://github.com/ScottTorzewski/Biomedical-Engineering/blob/main/Project2/Electrochemical%20Biosensors%20for%20Glucose%20Monitoring_Enzymatic%20and%20Non-Enzymatic%20Pathways%20Toward%20Next-Generation%20Biomedical%20Systems.pdf">FULL PAPER HERE</a>
+<a href="https://github.com/ScottTorzewski/Biomedical-Engineering/blob/main/Project2/Electrochemical%20Biosensors%20for%20Glucose%20Monitoring_Enzymatic%20and%20Non-Enzymatic%20Pathways%20Toward%20Next-Generation%20Biomedical%20Systems.pdf">CLICK HERE to view the full paper.</a>
 
 <p align="center">
  <img src="./Project2/project2.png" alt="project2-1" width="450"/>
